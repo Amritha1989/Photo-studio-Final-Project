@@ -2,7 +2,7 @@ apiVersion: v2
 name: photostudio-app-chart
 description: A Helm chart for Photo Studio Application with MongoDB
 type: application
-version: 1.7.0
+version: 1.7.1
 appVersion: "1.0"
 keywords:
   - photo-studio
