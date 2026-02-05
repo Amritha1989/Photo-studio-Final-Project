@@ -1,5 +1,5 @@
 namespace: final
-replicas: 2
+replicas: 5
 app: ps
 deployment:
   labels:
