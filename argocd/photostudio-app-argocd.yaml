@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/Amritha1989/Photo-studio-Final-Project
     path: charts/photostudio-app
-    targetRevision: "*"
+    targetRevision: main
     helm:
       valueFiles:
         - values.yaml
