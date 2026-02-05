@@ -3,6 +3,27 @@ entries:
   photostudio-app-chart:
   - apiVersion: v2
     appVersion: "1.0"
+    created: "2026-02-05T05:50:48.012253639Z"
+    description: A Helm chart for Photo Studio Application with MongoDB
+    digest: 5e2783dac99636a2ef1287748129519df1c32427d26bf484fea5510c0fc2ed5c
+    home: https://github.com/yourusername/photo-studio
+    icon: https://example.com/icon.png
+    keywords:
+    - photo-studio
+    - mongodb
+    - kubernetes
+    maintainers:
+    - email: devops@example.com
+      name: DevOps Team
+    name: photostudio-app-chart
+    sources:
+    - https://github.com/yourusername/photo-studio
+    type: application
+    urls:
+    - https://github.com/Amritha1989/Photo-studio-Final-Project/releases/download/photostudio-app-chart-1.7.1/photostudio-app-chart-1.7.1.tgz
+    version: 1.7.1
+  - apiVersion: v2
+    appVersion: "1.0"
     created: "2026-02-05T05:16:43.077548891Z"
     description: A Helm chart for Photo Studio Application with MongoDB
     digest: 54b4ed3a5a990d0d4b343dcf83401cf3fb9bd01e85945b24f4d38315b0b6a0df
@@ -43,4 +64,4 @@ entries:
     urls:
     - https://github.com/Amritha1989/Photo-studio-Final-Project/releases/download/photostudio-app-chart-1.0.0/photostudio-app-chart-1.0.0.tgz
     version: 1.0.0
-generated: "2026-02-05T05:16:43.077563458Z"
+generated: "2026-02-05T05:50:48.012272254Z"
